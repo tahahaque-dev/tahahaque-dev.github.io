@@ -11,7 +11,7 @@ About Me
 ======
 Assalamualaikum or (اَلسَّلَامُ عَلَيْكُمْ),
 
-My name is Taha Haque and I am currently an incoming Freshman to the University of Washington's School of Engineering! Being based in a environment of much innovation and forward thinking, I am hoping to improve my understanding in programming. In addition to becoming profecient in programming! Feel free to connect with me on my (Linked)In which I will link soon!
+My name is Taha Haque and I am currently an incoming Freshman to the University of Washington's School of Engineering! Being based in a environment of much innovation and forward thinking, I am hoping to improve my understanding in programming. Feel free to connect with me on my (Linked)In which I will link soon!
 
 A data-driven personal website
 ======
