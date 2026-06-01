@@ -20,4 +20,8 @@ Discovered how to develop a research project and build strategies tied toward th
 
 Impact
 ======
-Created potential pathways of artificial intelligence in a regional hospitality setting 
+Created potential pathways of artificial intelligence in a regional hospitality setting
+
+Link
+======
+[Discover Project GUEST](
