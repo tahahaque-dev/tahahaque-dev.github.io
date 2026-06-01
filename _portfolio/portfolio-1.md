@@ -4,6 +4,8 @@ excerpt: "Developed a report on applying Artificial Intelligence systems such as
 collection: portfolio
 ---
 
+Welcome to Project GUEST!
+
 Description
 ======
 Developed a report on applying Artificial Intelligence systems such as inventory management in a hospitality setting
