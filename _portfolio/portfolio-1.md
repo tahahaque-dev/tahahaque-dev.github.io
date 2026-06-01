@@ -24,4 +24,4 @@ Created potential pathways of artificial intelligence in a regional hospitality 
 
 Link
 ======
-[Discover Project GUEST](
+[Discover Project GUEST](https://canva.link/r53qsblsdp7e7g2)
