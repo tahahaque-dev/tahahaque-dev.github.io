@@ -1,7 +1,23 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project GUEST"
+excerpt: "Developed a report on applying Artificial Intelligence systems such as inventory management in a hospitality setting<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Description
+======
+Developed a report on applying Artificial Intelligence systems such as inventory management in a hospitality setting
+
+Skills Utilized
+======
+- Utilized Research Development
+- Data Analysis
+- Communication
+
+What I learned
+======
+Discovered how to develop a research project and build strategies tied toward their objectives
+
+Impact
+======
+Created potential pathways of artificial intelligence in a regional hospitality setting 
