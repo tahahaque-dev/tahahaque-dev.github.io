@@ -1,6 +1,6 @@
 ---
 title: "Project GUEST"
-excerpt: "Developed a report on applying Artificial Intelligence systems such as inventory management in a hospitality setting<br/><img src='/images/Project-GUEST-DECA.png'>"
+excerpt: "2025 DECA Hospitality and Tourism Operations Research<br/><img src='/images/Project-GUEST-DECA.png'>"
 collection: portfolio
 ---
 
