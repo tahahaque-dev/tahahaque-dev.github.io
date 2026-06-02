@@ -13,4 +13,6 @@ redirect_from:
 
 View my refrences as well!
 
-<img src='/images/Reference Sheet Sample.pdf'>
+<object data="Reference Sheet Sample.pdf" type="application/pdf" width="100%" height="800px">
+ 
+
