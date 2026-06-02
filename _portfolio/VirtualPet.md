@@ -1,6 +1,6 @@
 ---
 title: "Virtual Pet Project"
-excerpt: "Unit 3 AP Computer Science Project<br/><img src='/images/Project-GUEST-DECA.png'>"
+excerpt: "Unit 3 AP Computer Science Project<br/><img src='/images/Screenshot 2026-06-02 125203.png'><img src='/images/Screenshot 2026-06-02 125330.png'><img src='/images/Screenshot 2026-06-02 125525.png'>"
 collection: portfolio
 ---
 
