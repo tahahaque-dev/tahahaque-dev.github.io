@@ -14,5 +14,5 @@ redirect_from:
 View my refrences as well!
 
 <object data="Reference-Sheet-Sample.pdf" type="application/pdf" width="100%" height="600px">
- 
+</object>
 
