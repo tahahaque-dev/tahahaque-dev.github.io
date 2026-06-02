@@ -1,29 +1,31 @@
 ---
-title: "Project GUEST"
-excerpt: "2025 DECA Hospitality and Tourism Operations Research<br/><img src='/images/Project-GUEST-DECA.png'>"
+title: "Virtual Pet Project"
+excerpt: "Unit 3 AP Computer Science Project<br/><img src='/images/Project-GUEST-DECA.png'>"
 collection: portfolio
 ---
 
-Welcome to Project GUEST!
+Welcome to Virtual Pet Project!
 
 Description
 ======
-Developed a report on applying Artificial Intelligence systems such as inventory management in a hospitality setting
+This project outlines the development of a number of classes to replicate the attributes and features of a virtual pet similar to the likes of a Tamagotchi, Pou, or My Talking Tom.
 
 Skills Utilized
 ======
-- Utilized Research Development
-- Data Analysis
+- Class Development
+- Object Oriented Programming
 - Communication
+- Creativity
+- Collaboration
 
 What I learned
 ======
-Discovered how to develop a research project and build strategies tied toward their objectives
+I discovered crucial steps to developing a class including planning the features, in addition to implementing them as per the anatomy and composition of a class in Java!
 
 Impact
 ======
-Created potential pathways of artificial intelligence in a regional hospitality setting
+We were able to navigate the production of a class, this was done through the practice of debugging and fixing relevant errors. Additionally, I was able to effectively communicate and collaborate with another person!
 
 Link
 ======
-[Discover Project GUEST](https://canva.link/r53qsblsdp7e7g2)
+[Discover my Virtual Pet Project](https://codehs.com/student/5394076/section/830132)
