@@ -13,4 +13,4 @@ redirect_from:
 
 View my refrences as well!
 
-<img src='/images/Screenshot 2026-06-02 141850.png'>
+<img src='/images/Reference Sheet Sample.pdf'>
