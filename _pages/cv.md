@@ -13,6 +13,8 @@ redirect_from:
 
 View my refrences as well!
 
-<object data="Reference-Sheet-Sample.pdf" type="application/pdf" width="100%" height="600px">
+<object data="{{ base_path }}/images/Reference-Sheet-Sample.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support viewing PDFs inline. Please <a href="{{ base_path }}/images/Reference-Sheet-Sample.pdf">click here to download the PDF</a>.</p>
 </object>
+
 
