@@ -22,10 +22,10 @@ I learned about crucial functions with electricity procedures such as DERs (or D
 
 Impact
 ======
-I was able to complete the AP Physics 1 curriculum achieving an A
+I was able to complete the AP Physics 1 curriculum achieving an A and present a potential (hypothetical) solution to Pakistan's aging energy infrastructure.
 
 Fun Fact!
 ======
 I was able to interview an ex-PNNL engineer with a Ph.D in Electrical and Computer Engineering whilst developing this project! 
 
-[Discover innovations in energy!](https://docs.google.com/presentation/d/1jqM-wsXvZgwcf_H5B1MFSBAkkvpwSRsFRbarMXQp9kw/edit?usp=sharing)
+[Discover innovations in energy](https://docs.google.com/presentation/d/1jqM-wsXvZgwcf_H5B1MFSBAkkvpwSRsFRbarMXQp9kw/edit?usp=sharing)
