@@ -9,4 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-"<img src='/images/Screenshot 2026-06-02 141850.png'>"
+<img src='/images/Screenshot 2026-06-02 141850.png'>
+
+View my refrences as well!
+
+<img src='/images/Screenshot 2026-06-02 141850.png'>
