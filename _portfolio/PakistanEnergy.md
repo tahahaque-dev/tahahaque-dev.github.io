@@ -29,3 +29,12 @@ Fun Fact!
 I was able to interview an ex-PNNL engineer with a Ph.D in Electrical and Computer Engineering whilst developing this project! 
 
 [Discover innovations in energy](https://docs.google.com/presentation/d/1jqM-wsXvZgwcf_H5B1MFSBAkkvpwSRsFRbarMXQp9kw/edit?usp=sharing)
+
+More Pics!
+======
+<img src='/images/Examples of Electricity.png'>
+Picture 1: Seen here are certain examples of Sodium Ion Batteries
+<img src='/images/Project SOURCE Objectives.png'>
+Picture 2: Depiction of the project's objectives. Notice that SOURCE stands for an acronym for Source..., Optimizing..., Utilizing..., Resourcing..., Connecting..., Electrifying...
+<img src='/images/Proof of Interview.png'>
+Picture 3: This slide give information of my interviewee, Dr. Hanif!
