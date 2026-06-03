@@ -36,5 +36,5 @@ More Pics!
 Picture 1: Seen here are certain examples of Sodium Ion Batteries
 <img src='/images/Project SOURCE Objectives.png'>
 Picture 2: Depiction of the project's objectives. Notice that SOURCE stands for an acronym for Source..., Optimizing..., Utilizing..., Resourcing..., Connecting..., Electrifying...
-<img src='/images/Proof of Interview.png'>
+<img src='/images/Proof of Interview (2).png'>
 Picture 3: This slide give information of my interviewee, Dr. Hanif!
