@@ -1,6 +1,6 @@
 ---
 title: "Virtual Pet Project"
-excerpt: "Unit 3 AP Computer Science Project<br/><img src='/images/Screenshot 2026-06-02 125203.png'><img src='/images/Screenshot 2026-06-02 125330.png'><img src='/images/Screenshot 2026-06-02 125525.png'>"
+excerpt: "Unit 3 AP Computer Science Project<br/><img src='/images/Screenshot 2026-06-02 125203.png'>"
 collection: portfolio
 ---
 
@@ -29,3 +29,9 @@ We were able to navigate the production of a class, this was done through the pr
 Link
 ======
 [Discover my Virtual Pet Project](https://codehs.com/student/5394076/section/830132)
+
+More Pics!
+======
+<img src='/images/Screenshot 2026-06-02 125203.png'>
+<img src='/images/Screenshot 2026-06-02 125330.png'>
+<img src='/images/Screenshot 2026-06-02 125525.png'>
