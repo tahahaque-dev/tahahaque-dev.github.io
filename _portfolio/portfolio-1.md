@@ -26,7 +26,7 @@ Created potential pathways of artificial intelligence in a regional hospitality 
 
 Link
 ======
-[Discover Project GUEST](file:///C:/Users/drbas/AppData/Local/Temp/MicrosoftEdgeDownloads/14a93760-a4ce-4995-9f7f-e25d5478cfdb/HOTR_WA_Haque_WE.pdf)
+[Discover Project GUEST](https://www.canva.com/design/DAGaRTuNb74/WCKidrPDUukwJ5LwUAnb_g/edit)
 
 More Pics!
 ======
