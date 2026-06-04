@@ -33,5 +33,8 @@ Link
 More Pics!
 ======
 <img src='/images/Screenshot 2026-06-02 125203.png'>
+Picture 1: The first stage for the project was preparation, here seen above are multiple counts of instance variables and methods that are important for the design of our animal.
 <img src='/images/Screenshot 2026-06-02 125330.png'>
+Picture 2: We move to outlining the project, here you observe the food class. This is created to prevent hypothetical starvation for our new friend!
 <img src='/images/Screenshot 2026-06-02 125525.png'>
+Picture 3: Now we are getting to the good stuff actually building and developing the features of our webpage!
